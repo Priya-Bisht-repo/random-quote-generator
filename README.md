@@ -9,7 +9,6 @@
   - HTML5  
   - CSS3  
   - JavaScript (Vanilla)
-  - 
   ## 💡 Customization
   Edit the `quotes` array inside the <script> tag to add your own favorite quotes.
 
